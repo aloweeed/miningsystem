@@ -1,0 +1,5 @@
+name: MiningSystem
+version: '${project.version}'
+main: ru.system.MiningSystem
+api-version: '1.16'
+authors: [hun1yy, selfcoder]
